@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ramprocject",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

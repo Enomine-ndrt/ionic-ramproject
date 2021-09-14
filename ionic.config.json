@@ -1,0 +1,7 @@
+{
+  "name": "ramprocject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
